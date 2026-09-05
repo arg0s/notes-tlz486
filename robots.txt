@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arg0s.github.io/notes-tlz486/sitemap.xml
